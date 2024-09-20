@@ -2,4 +2,4 @@
 
 # A Privet Network for The UTD
 
-# Designed By Sahil Khan and Team
+# Designed By Sahil Khan, Aviral Asthana, Jishan Khan and The Team
